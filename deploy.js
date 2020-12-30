@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const {interface, bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
-    'doctor nuclear describe delay scan search shop century govern fall category describe',
+    'INSERT MNEMONIC PHRASE HERE',
     'https://rinkeby.infura.io/v3/0903b6ff89ce48ebacacad2c3e0f0b1b'
 );
 
